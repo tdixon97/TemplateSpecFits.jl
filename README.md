@@ -8,6 +8,6 @@
 
 
 Many applications in experimental physics requiring modelling experimental data with templates, usually based on Monte-Carlo simulations.
-This package provides fast, fully customisable, Bbayesian statistical analysis based on template models.
+This package provides fast, fully customisable, bayesian statistical analysis based on template models and BAT.jl.
 
 In addition, support is given for folding systematic uncertainities directly into the statistical model...
