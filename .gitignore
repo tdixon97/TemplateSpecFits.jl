@@ -8,3 +8,5 @@ docs/build/
 .vscode
 *.pdf
 *.h5
+*~
+*#
