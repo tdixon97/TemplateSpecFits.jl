@@ -1,0 +1,7 @@
+repos:
+  - repo: https://github.com/qiaojunfeng/pre-commit-julia-format
+    rev: v0.2.0
+    hooks:
+      - id: julia-format
+        files: ^(src|test|attic)/.*\.jl$
+        args: [--project=.]  
